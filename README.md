@@ -4,7 +4,7 @@ Weekly Sentinel-2 canopy monitoring for agricultural clusters. Every parcel a
 client declares is measured — there is no sampling. Each parcel is compared to
 the client's other parcels of the same crop this week, and to its own history.
 
-## Scope — read this first
+## Scope
 
 **Measured:** canopy vigour (NDVI), red-edge vigour (NDRE), canopy water content (NDMI).
 
